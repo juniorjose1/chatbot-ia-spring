@@ -1,0 +1,306 @@
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-15 | Horário: 20:45 | Jogo: Stade Rennais FC 1901 vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-16 | Horário: 17:00 | Jogo: Racing Club de Lens vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-16 | Horário: 19:00 | Jogo: AS Monaco FC vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-16 | Horário: 21:05 | Jogo: OGC Nice vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 15:00 | Jogo: Stade Brestois 29 vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 17:15 | Jogo: AJ Auxerre vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 17:15 | Jogo: FC Metz vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 17:15 | Jogo: Angers SCO vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 20:45 | Jogo: FC Nantes vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-22 | Horário: 20:45 | Jogo: Paris Saint-Germain FC vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-23 | Horário: 17:00 | Jogo: Olympique de Marseille vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-23 | Horário: 19:00 | Jogo: OGC Nice vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-23 | Horário: 21:05 | Jogo: Olympique Lyonnais vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 15:00 | Jogo: FC Lorient vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 17:15 | Jogo: Le Havre AC vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 17:15 | Jogo: Toulouse FC vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 17:15 | Jogo: RC Strasbourg Alsace vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 20:45 | Jogo: Lille OSC vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-29 | Horário: 20:45 | Jogo: Racing Club de Lens vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 17:00 | Jogo: FC Lorient vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 19:00 | Jogo: FC Nantes vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 21:05 | Jogo: Toulouse FC vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 15:00 | Jogo: Angers SCO vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 17:15 | Jogo: Le Havre AC vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 17:15 | Jogo: AS Monaco FC vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 17:15 | Jogo: Paris FC vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 20:45 | Jogo: Olympique Lyonnais vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-12 | Horário: 20:45 | Jogo: Olympique de Marseille vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-13 | Horário: 17:00 | Jogo: OGC Nice vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-13 | Horário: 21:05 | Jogo: AJ Auxerre vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 15:00 | Jogo: Lille OSC vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 17:15 | Jogo: FC Metz vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 17:15 | Jogo: Paris Saint-Germain FC vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 17:15 | Jogo: RC Strasbourg Alsace vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 17:15 | Jogo: Stade Brestois 29 vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 20:45 | Jogo: Stade Rennais FC 1901 vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-19 | Horário: 20:45 | Jogo: Olympique Lyonnais vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 17:00 | Jogo: FC Nantes vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 19:00 | Jogo: Stade Brestois 29 vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 21:05 | Jogo: Racing Club de Lens vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 15:00 | Jogo: Paris FC vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 17:15 | Jogo: Le Havre AC vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 17:15 | Jogo: AJ Auxerre vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 17:15 | Jogo: AS Monaco FC vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 5 | Data: 2025-09-22 | Horário: 20:00 | Jogo: Olympique de Marseille vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-26 | Horário: 20:45 | Jogo: RC Strasbourg Alsace vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-27 | Horário: 17:00 | Jogo: FC Lorient vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-27 | Horário: 19:00 | Jogo: Toulouse FC vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-27 | Horário: 21:05 | Jogo: Paris Saint-Germain FC vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-28 | Horário: 15:00 | Jogo: OGC Nice vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-28 | Horário: 17:15 | Jogo: FC Metz vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-28 | Horário: 17:15 | Jogo: Lille OSC vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-28 | Horário: 17:15 | Jogo: Angers SCO vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 6 | Data: 2025-09-28 | Horário: 20:45 | Jogo: Stade Rennais FC 1901 vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-03 | Horário: 20:45 | Jogo: Paris FC vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-04 | Horário: 17:00 | Jogo: FC Metz vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-04 | Horário: 19:00 | Jogo: Stade Brestois 29 vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-04 | Horário: 21:05 | Jogo: AJ Auxerre vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-05 | Horário: 15:00 | Jogo: Olympique Lyonnais vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-05 | Horário: 17:15 | Jogo: RC Strasbourg Alsace vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-05 | Horário: 17:15 | Jogo: Le Havre AC vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-05 | Horário: 17:15 | Jogo: AS Monaco FC vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 7 | Data: 2025-10-05 | Horário: 20:45 | Jogo: Lille OSC vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-17 | Horário: 20:45 | Jogo: Paris Saint-Germain FC vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-18 | Horário: 17:00 | Jogo: OGC Nice vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-18 | Horário: 19:00 | Jogo: Angers SCO vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-18 | Horário: 21:05 | Jogo: Olympique de Marseille vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-19 | Horário: 15:00 | Jogo: Racing Club de Lens vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-19 | Horário: 17:15 | Jogo: FC Lorient vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-19 | Horário: 17:15 | Jogo: Toulouse FC vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-19 | Horário: 17:15 | Jogo: Stade Rennais FC 1901 vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 8 | Data: 2025-10-19 | Horário: 20:45 | Jogo: FC Nantes vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-24 | Horário: 20:45 | Jogo: Paris FC vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-25 | Horário: 17:00 | Jogo: Stade Brestois 29 vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-25 | Horário: 19:00 | Jogo: AS Monaco FC vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-25 | Horário: 21:05 | Jogo: Racing Club de Lens vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-26 | Horário: 15:00 | Jogo: Lille OSC vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-26 | Horário: 17:15 | Jogo: AJ Auxerre vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-26 | Horário: 17:15 | Jogo: Angers SCO vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-26 | Horário: 17:15 | Jogo: Stade Rennais FC 1901 vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 9 | Data: 2025-10-26 | Horário: 20:45 | Jogo: Olympique Lyonnais vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 19:00 | Jogo: Le Havre AC vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 19:00 | Jogo: FC Lorient vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 19:00 | Jogo: FC Metz vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 19:00 | Jogo: OGC Nice vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 21:05 | Jogo: FC Nantes vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 21:05 | Jogo: Paris FC vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 21:05 | Jogo: Toulouse FC vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 21:05 | Jogo: Olympique de Marseille vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 10 | Data: 2025-10-29 | Horário: 21:05 | Jogo: RC Strasbourg Alsace vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 17:00 | Jogo: Paris Saint-Germain FC vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 19:00 | Jogo: AS Monaco FC vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 21:05 | Jogo: AJ Auxerre vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 15:00 | Jogo: Stade Rennais FC 1901 vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 17:15 | Jogo: FC Nantes vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: TBD | Jogo: Toulouse FC vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 17:15 | Jogo: Lille OSC vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 17:15 | Jogo: Racing Club de Lens vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 20:45 | Jogo: Stade Brestois 29 vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-07 | Horário: 20:45 | Jogo: Paris FC vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 17:00 | Jogo: Olympique de Marseille vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 19:00 | Jogo: Le Havre AC vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 21:05 | Jogo: AS Monaco FC vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 15:00 | Jogo: FC Lorient vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 17:15 | Jogo: FC Metz vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 17:15 | Jogo: RC Strasbourg Alsace vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 17:15 | Jogo: Angers SCO vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 20:45 | Jogo: Olympique Lyonnais vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-21 | Horário: 20:45 | Jogo: OGC Nice vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 17:00 | Jogo: Racing Club de Lens vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 19:00 | Jogo: Stade Rennais FC 1901 vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 21:05 | Jogo: Paris Saint-Germain FC vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 15:00 | Jogo: AJ Auxerre vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 17:15 | Jogo: FC Nantes vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 17:15 | Jogo: Toulouse FC vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 17:15 | Jogo: Stade Brestois 29 vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 20:45 | Jogo: Lille OSC vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-28 | Horário: 20:45 | Jogo: FC Metz vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 17:00 | Jogo: AS Monaco FC vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 19:00 | Jogo: Paris FC vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 21:05 | Jogo: Olympique de Marseille vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 15:00 | Jogo: RC Strasbourg Alsace vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 17:15 | Jogo: Le Havre AC vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 17:15 | Jogo: FC Lorient vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 17:15 | Jogo: Angers SCO vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 20:45 | Jogo: Olympique Lyonnais vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-05 | Horário: 19:00 | Jogo: Stade Brestois 29 vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-05 | Horário: 21:00 | Jogo: Lille OSC vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 17:00 | Jogo: FC Nantes vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 19:00 | Jogo: Toulouse FC vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 21:05 | Jogo: Paris Saint-Germain FC vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 15:00 | Jogo: OGC Nice vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 17:15 | Jogo: Le Havre AC vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 17:15 | Jogo: AJ Auxerre vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 20:45 | Jogo: FC Lorient vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-12 | Horário: 20:45 | Jogo: Angers SCO vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 17:00 | Jogo: Stade Rennais FC 1901 vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 19:00 | Jogo: FC Metz vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 21:05 | Jogo: Paris FC vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 15:00 | Jogo: Olympique Lyonnais vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 17:15 | Jogo: AJ Auxerre vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 17:15 | Jogo: RC Strasbourg Alsace vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 17:15 | Jogo: Racing Club de Lens vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 20:45 | Jogo: Olympique de Marseille vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-02 | Horário: 20:45 | Jogo: Toulouse FC vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-03 | Horário: 17:00 | Jogo: AS Monaco FC vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-03 | Horário: 19:00 | Jogo: OGC Nice vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-03 | Horário: 21:05 | Jogo: Lille OSC vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-04 | Horário: 15:00 | Jogo: Olympique de Marseille vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-04 | Horário: 17:15 | Jogo: Le Havre AC vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-04 | Horário: 17:15 | Jogo: FC Lorient vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-04 | Horário: 17:15 | Jogo: Stade Brestois 29 vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 17 | Data: 2026-01-04 | Horário: 20:45 | Jogo: Paris Saint-Germain FC vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-16 | Horário: 19:00 | Jogo: AS Monaco FC vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-16 | Horário: 21:00 | Jogo: Paris Saint-Germain FC vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-17 | Horário: 17:00 | Jogo: Racing Club de Lens vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-17 | Horário: 19:00 | Jogo: Toulouse FC vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-17 | Horário: 21:05 | Jogo: Angers SCO vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-18 | Horário: 15:00 | Jogo: RC Strasbourg Alsace vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-18 | Horário: 17:15 | Jogo: FC Nantes vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-18 | Horário: 17:15 | Jogo: Stade Rennais FC 1901 vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 18 | Data: 2026-01-18 | Horário: 20:45 | Jogo: Olympique Lyonnais vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-23 | Horário: 20:00 | Jogo: AJ Auxerre vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-24 | Horário: 17:00 | Jogo: Stade Rennais FC 1901 vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-24 | Horário: 19:00 | Jogo: Le Havre AC vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-24 | Horário: 21:05 | Jogo: Olympique de Marseille vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-25 | Horário: 15:00 | Jogo: FC Nantes vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-25 | Horário: 17:15 | Jogo: FC Metz vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-25 | Horário: 17:15 | Jogo: Paris FC vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-25 | Horário: 17:15 | Jogo: Stade Brestois 29 vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 19 | Data: 2026-01-25 | Horário: 20:45 | Jogo: Lille OSC vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-01-30 | Horário: 20:45 | Jogo: Racing Club de Lens vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-01-31 | Horário: 17:00 | Jogo: Paris FC vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-01-31 | Horário: 19:00 | Jogo: FC Lorient vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-01-31 | Horário: 21:05 | Jogo: AS Monaco FC vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-02-01 | Horário: 15:00 | Jogo: Olympique Lyonnais vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-02-01 | Horário: 17:15 | Jogo: Toulouse FC vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-02-01 | Horário: 17:15 | Jogo: OGC Nice vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-02-01 | Horário: 17:15 | Jogo: Angers SCO vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 20 | Data: 2026-02-01 | Horário: 20:45 | Jogo: RC Strasbourg Alsace vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-06 | Horário: 20:45 | Jogo: FC Metz vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-07 | Horário: 17:00 | Jogo: Racing Club de Lens vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-07 | Horário: 19:00 | Jogo: Stade Brestois 29 vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-07 | Horário: 21:05 | Jogo: FC Nantes vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-08 | Horário: 15:00 | Jogo: OGC Nice vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-08 | Horário: 17:15 | Jogo: Le Havre AC vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-08 | Horário: 17:15 | Jogo: AJ Auxerre vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-08 | Horário: 17:15 | Jogo: Angers SCO vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 21 | Data: 2026-02-08 | Horário: 20:45 | Jogo: Paris Saint-Germain FC vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-13 | Horário: 19:00 | Jogo: Stade Rennais FC 1901 vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-13 | Horário: 21:05 | Jogo: AS Monaco FC vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-14 | Horário: 17:00 | Jogo: Olympique de Marseille vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-14 | Horário: 19:00 | Jogo: Lille OSC vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-14 | Horário: 21:05 | Jogo: Paris FC vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-15 | Horário: 15:00 | Jogo: Le Havre AC vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-15 | Horário: 17:15 | Jogo: FC Lorient vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-15 | Horário: 17:15 | Jogo: FC Metz vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 22 | Data: 2026-02-15 | Horário: 20:45 | Jogo: Olympique Lyonnais vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-20 | Horário: 20:45 | Jogo: Stade Brestois 29 vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-21 | Horário: 17:00 | Jogo: Racing Club de Lens vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-21 | Horário: 19:00 | Jogo: Toulouse FC vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-21 | Horário: 21:05 | Jogo: Paris Saint-Germain FC vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-22 | Horário: 15:00 | Jogo: AJ Auxerre vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-22 | Horário: 17:15 | Jogo: FC Nantes vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-22 | Horário: 17:15 | Jogo: OGC Nice vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-22 | Horário: 17:15 | Jogo: Angers SCO vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 23 | Data: 2026-02-22 | Horário: 20:45 | Jogo: RC Strasbourg Alsace vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-02-27 | Horário: 20:45 | Jogo: RC Strasbourg Alsace vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-02-28 | Horário: 17:00 | Jogo: Stade Rennais FC 1901 vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-02-28 | Horário: 19:00 | Jogo: AS Monaco FC vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-02-28 | Horário: 21:05 | Jogo: Le Havre AC vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-03-01 | Horário: 15:00 | Jogo: Paris FC vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-03-01 | Horário: 17:15 | Jogo: FC Lorient vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-03-01 | Horário: 17:15 | Jogo: FC Metz vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-03-01 | Horário: 17:15 | Jogo: Lille OSC vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 24 | Data: 2026-03-01 | Horário: 20:45 | Jogo: Olympique de Marseille vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-06 | Horário: 20:45 | Jogo: Paris Saint-Germain FC vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-07 | Horário: 17:00 | Jogo: FC Nantes vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-07 | Horário: 19:00 | Jogo: AJ Auxerre vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-07 | Horário: 21:05 | Jogo: Toulouse FC vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-08 | Horário: 15:00 | Jogo: Racing Club de Lens vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-08 | Horário: 17:15 | Jogo: OGC Nice vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-08 | Horário: 17:15 | Jogo: Lille OSC vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-08 | Horário: 17:15 | Jogo: Stade Brestois 29 vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 25 | Data: 2026-03-08 | Horário: 20:45 | Jogo: Olympique Lyonnais vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-13 | Horário: 20:45 | Jogo: Olympique de Marseille vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-14 | Horário: 17:00 | Jogo: FC Lorient vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-14 | Horário: 19:00 | Jogo: Angers SCO vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-14 | Horário: 21:05 | Jogo: AS Monaco FC vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-15 | Horário: TBD | Jogo: Paris Saint-Germain FC vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-15 | Horário: 15:00 | Jogo: RC Strasbourg Alsace vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-15 | Horário: 17:15 | Jogo: Le Havre AC vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-15 | Horário: 17:15 | Jogo: FC Metz vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 26 | Data: 2026-03-15 | Horário: 20:45 | Jogo: Stade Rennais FC 1901 vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-20 | Horário: 20:45 | Jogo: Racing Club de Lens vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-21 | Horário: 17:00 | Jogo: Toulouse FC vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-21 | Horário: 19:00 | Jogo: AJ Auxerre vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-21 | Horário: 21:05 | Jogo: OGC Nice vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-22 | Horário: 15:00 | Jogo: Olympique Lyonnais vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-22 | Horário: 17:15 | Jogo: Paris FC vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-22 | Horário: 17:15 | Jogo: Olympique de Marseille vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-22 | Horário: 17:15 | Jogo: Stade Rennais FC 1901 vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 27 | Data: 2026-03-22 | Horário: 20:45 | Jogo: FC Nantes vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-03 | Horário: 20:45 | Jogo: Paris Saint-Germain FC vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-04 | Horário: 17:00 | Jogo: RC Strasbourg Alsace vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-04 | Horário: 19:00 | Jogo: Stade Brestois 29 vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-04 | Horário: 21:05 | Jogo: Lille OSC vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-05 | Horário: 15:00 | Jogo: Angers SCO vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-05 | Horário: 17:15 | Jogo: Le Havre AC vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-05 | Horário: 17:15 | Jogo: FC Lorient vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-05 | Horário: 17:15 | Jogo: FC Metz vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 28 | Data: 2026-04-05 | Horário: 20:45 | Jogo: AS Monaco FC vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-10 | Horário: 20:45 | Jogo: Olympique de Marseille vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-11 | Horário: 17:00 | Jogo: Racing Club de Lens vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-11 | Horário: 19:00 | Jogo: AJ Auxerre vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-11 | Horário: 21:05 | Jogo: Stade Rennais FC 1901 vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-12 | Horário: 15:00 | Jogo: Paris FC vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-12 | Horário: 17:15 | Jogo: Toulouse FC vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-12 | Horário: 17:15 | Jogo: OGC Nice vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-12 | Horário: 17:15 | Jogo: Stade Brestois 29 vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 29 | Data: 2026-04-12 | Horário: 20:45 | Jogo: Olympique Lyonnais vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: AS Monaco FC vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: FC Lorient vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: FC Metz vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: FC Nantes vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: Lille OSC vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: Paris Saint-Germain FC vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: RC Strasbourg Alsace vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: Racing Club de Lens vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 30 | Data: 2026-04-19 | Horário: TBD | Jogo: Angers SCO vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Le Havre AC vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: FC Lorient vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Paris FC vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Toulouse FC vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Olympique Lyonnais vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Olympique de Marseille vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Angers SCO vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Stade Brestois 29 vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 31 | Data: 2026-04-26 | Horário: TBD | Jogo: Stade Rennais FC 1901 vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: AJ Auxerre vs Angers SCO
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: FC Metz vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: FC Nantes vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: Paris FC vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: OGC Nice vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: Olympique Lyonnais vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: Lille OSC vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: Paris Saint-Germain FC vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 32 | Data: 2026-05-03 | Horário: TBD | Jogo: RC Strasbourg Alsace vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: Le Havre AC vs Olympique de Marseille
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: AJ Auxerre vs OGC Nice
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: AS Monaco FC vs Lille OSC
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: FC Metz vs FC Lorient
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: Toulouse FC vs Olympique Lyonnais
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: Paris Saint-Germain FC vs Stade Brestois 29
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: Racing Club de Lens vs FC Nantes
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: Angers SCO vs RC Strasbourg Alsace
+Campeonato: French Ligue 1 2025/26 | Rodada 33 | Data: 2026-05-09 | Horário: 21:00 | Jogo: Stade Rennais FC 1901 vs Paris FC
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: FC Lorient vs Le Havre AC
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: FC Nantes vs Toulouse FC
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: Paris FC vs Paris Saint-Germain FC
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: OGC Nice vs FC Metz
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: Olympique Lyonnais vs Racing Club de Lens
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: Olympique de Marseille vs Stade Rennais FC 1901
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: Lille OSC vs AJ Auxerre
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: RC Strasbourg Alsace vs AS Monaco FC
+Campeonato: French Ligue 1 2025/26 | Rodada 34 | Data: 2026-05-16 | Horário: 21:00 | Jogo: Stade Brestois 29 vs Angers SCO

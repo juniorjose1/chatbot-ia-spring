@@ -1,0 +1,380 @@
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-15 | Horário: 19:00 | Jogo: Girona FC vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-15 | Horário: 21:30 | Jogo: Villarreal CF vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-16 | Horário: 19:30 | Jogo: RCD Mallorca vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-16 | Horário: 21:30 | Jogo: Deportivo Alavés vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-16 | Horário: 21:30 | Jogo: Valencia CF vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 17:00 | Jogo: RC Celta de Vigo vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 19:30 | Jogo: Athletic Club vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-17 | Horário: 21:30 | Jogo: RCD Espanyol de Barcelona vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-18 | Horário: 21:00 | Jogo: Elche CF vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 1 | Data: 2025-08-19 | Horário: 21:00 | Jogo: Real Madrid CF vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-22 | Horário: 21:30 | Jogo: Real Betis Balompié vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-23 | Horário: 17:00 | Jogo: RCD Mallorca vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-23 | Horário: 19:30 | Jogo: Club Atlético de Madrid vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-23 | Horário: 21:30 | Jogo: Levante UD vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 17:00 | Jogo: CA Osasuna vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 19:30 | Jogo: Real Sociedad de Fútbol vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 19:30 | Jogo: Villarreal CF vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-24 | Horário: 21:30 | Jogo: Real Oviedo vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-25 | Horário: 19:30 | Jogo: Athletic Club vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 2 | Data: 2025-08-25 | Horário: 21:30 | Jogo: Sevilla FC vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-08-27 | Horário: 21:00 | Jogo: RC Celta de Vigo vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-29 | Horário: 19:30 | Jogo: Elche CF vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-29 | Horário: 21:30 | Jogo: Valencia CF vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 17:00 | Jogo: Deportivo Alavés vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 19:00 | Jogo: Real Oviedo vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 19:30 | Jogo: Girona FC vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-30 | Horário: 21:30 | Jogo: Real Madrid CF vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 17:00 | Jogo: RC Celta de Vigo vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 19:00 | Jogo: Real Betis Balompié vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 19:30 | Jogo: RCD Espanyol de Barcelona vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 3 | Data: 2025-08-31 | Horário: 21:30 | Jogo: Rayo Vallecano de Madrid vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-12 | Horário: 21:00 | Jogo: Sevilla FC vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-13 | Horário: 14:00 | Jogo: Getafe CF vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-13 | Horário: 16:15 | Jogo: Real Sociedad de Fútbol vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-13 | Horário: 18:30 | Jogo: Athletic Club vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-13 | Horário: 21:00 | Jogo: Club Atlético de Madrid vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 14:00 | Jogo: RC Celta de Vigo vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 16:15 | Jogo: Levante UD vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 18:30 | Jogo: CA Osasuna vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-14 | Horário: 21:00 | Jogo: FC Barcelona vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 4 | Data: 2025-09-15 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-19 | Horário: 21:00 | Jogo: Real Betis Balompié vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 14:00 | Jogo: Girona FC vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 16:15 | Jogo: Real Madrid CF vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 18:30 | Jogo: Villarreal CF vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 18:30 | Jogo: Deportivo Alavés vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-20 | Horário: 21:00 | Jogo: Valencia CF vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 14:00 | Jogo: Rayo Vallecano de Madrid vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 16:15 | Jogo: RCD Mallorca vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 18:30 | Jogo: Elche CF vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 5 | Data: 2025-09-21 | Horário: 21:00 | Jogo: FC Barcelona vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-23 | Horário: 19:00 | Jogo: Athletic Club vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-23 | Horário: 19:00 | Jogo: RCD Espanyol de Barcelona vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-23 | Horário: 21:30 | Jogo: Levante UD vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-23 | Horário: 21:30 | Jogo: Sevilla FC vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-24 | Horário: 19:00 | Jogo: Getafe CF vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-24 | Horário: 21:30 | Jogo: Club Atlético de Madrid vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-24 | Horário: 21:30 | Jogo: Real Sociedad de Fútbol vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-25 | Horário: 19:30 | Jogo: CA Osasuna vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 6 | Data: 2025-09-25 | Horário: 21:30 | Jogo: Real Oviedo vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-26 | Horário: 21:00 | Jogo: Girona FC vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-27 | Horário: 14:00 | Jogo: Getafe CF vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-27 | Horário: 16:15 | Jogo: Club Atlético de Madrid vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-27 | Horário: 18:30 | Jogo: RCD Mallorca vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-27 | Horário: 21:00 | Jogo: Villarreal CF vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-28 | Horário: 14:00 | Jogo: Rayo Vallecano de Madrid vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-28 | Horário: 16:15 | Jogo: Elche CF vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-28 | Horário: 18:30 | Jogo: FC Barcelona vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-28 | Horário: 21:00 | Jogo: Real Betis Balompié vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 7 | Data: 2025-09-30 | Horário: 20:00 | Jogo: Valencia CF vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-03 | Horário: 21:00 | Jogo: CA Osasuna vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-04 | Horário: 14:00 | Jogo: Real Oviedo vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-04 | Horário: 16:15 | Jogo: Girona FC vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-04 | Horário: 18:30 | Jogo: Athletic Club vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-04 | Horário: 21:00 | Jogo: Real Madrid CF vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-05 | Horário: 14:00 | Jogo: Deportivo Alavés vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-05 | Horário: 16:15 | Jogo: Sevilla FC vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-05 | Horário: 18:30 | Jogo: RCD Espanyol de Barcelona vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-05 | Horário: 18:30 | Jogo: Real Sociedad de Fútbol vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 8 | Data: 2025-10-05 | Horário: 21:00 | Jogo: RC Celta de Vigo vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-17 | Horário: 21:00 | Jogo: Real Oviedo vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-18 | Horário: 14:00 | Jogo: Sevilla FC vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-18 | Horário: 16:15 | Jogo: FC Barcelona vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-18 | Horário: 18:30 | Jogo: Villarreal CF vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-18 | Horário: 21:00 | Jogo: Club Atlético de Madrid vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-19 | Horário: 14:00 | Jogo: Elche CF vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-19 | Horário: 16:15 | Jogo: RC Celta de Vigo vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-19 | Horário: 18:30 | Jogo: Levante UD vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-19 | Horário: 21:00 | Jogo: Getafe CF vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 9 | Data: 2025-10-20 | Horário: 21:00 | Jogo: Deportivo Alavés vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-24 | Horário: 21:00 | Jogo: Real Sociedad de Fútbol vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-25 | Horário: 14:00 | Jogo: Girona FC vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-25 | Horário: 16:15 | Jogo: RCD Espanyol de Barcelona vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-25 | Horário: 18:30 | Jogo: Athletic Club vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-25 | Horário: 21:00 | Jogo: Valencia CF vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-26 | Horário: 14:00 | Jogo: RCD Mallorca vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-26 | Horário: 16:15 | Jogo: Real Madrid CF vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-26 | Horário: 18:30 | Jogo: CA Osasuna vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-26 | Horário: 21:00 | Jogo: Rayo Vallecano de Madrid vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 10 | Data: 2025-10-27 | Horário: 21:00 | Jogo: Real Betis Balompié vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-10-31 | Horário: 21:00 | Jogo: Getafe CF vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 14:00 | Jogo: Villarreal CF vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 16:15 | Jogo: Club Atlético de Madrid vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 18:30 | Jogo: Real Sociedad de Fútbol vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-01 | Horário: 21:00 | Jogo: Real Madrid CF vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 14:00 | Jogo: Levante UD vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 16:15 | Jogo: Deportivo Alavés vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 18:30 | Jogo: FC Barcelona vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-02 | Horário: 21:00 | Jogo: Real Betis Balompié vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 11 | Data: 2025-11-03 | Horário: 21:00 | Jogo: Real Oviedo vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-07 | Horário: 21:00 | Jogo: Elche CF vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 14:00 | Jogo: Girona FC vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 16:15 | Jogo: Sevilla FC vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 18:30 | Jogo: Club Atlético de Madrid vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-08 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 14:00 | Jogo: Athletic Club vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 16:15 | Jogo: Rayo Vallecano de Madrid vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 18:30 | Jogo: Valencia CF vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 18:30 | Jogo: RCD Mallorca vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 12 | Data: 2025-11-09 | Horário: 21:00 | Jogo: RC Celta de Vigo vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-21 | Horário: 21:00 | Jogo: Valencia CF vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 14:00 | Jogo: Deportivo Alavés vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 16:15 | Jogo: FC Barcelona vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 18:30 | Jogo: CA Osasuna vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-22 | Horário: 21:00 | Jogo: Villarreal CF vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 14:00 | Jogo: Real Oviedo vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 16:15 | Jogo: Real Betis Balompié vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 18:30 | Jogo: Getafe CF vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-23 | Horário: 21:00 | Jogo: Elche CF vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 13 | Data: 2025-11-24 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-28 | Horário: 21:00 | Jogo: Getafe CF vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 14:00 | Jogo: RCD Mallorca vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 16:15 | Jogo: FC Barcelona vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 18:30 | Jogo: Levante UD vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-29 | Horário: 21:00 | Jogo: Club Atlético de Madrid vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 14:00 | Jogo: Real Sociedad de Fútbol vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 16:15 | Jogo: Sevilla FC vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 18:30 | Jogo: RC Celta de Vigo vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-11-30 | Horário: 21:00 | Jogo: Girona FC vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 14 | Data: 2025-12-01 | Horário: 21:00 | Jogo: Rayo Vallecano de Madrid vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2025-12-02 | Horário: 21:00 | Jogo: FC Barcelona vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2025-12-03 | Horário: 19:00 | Jogo: Athletic Club vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-05 | Horário: 21:00 | Jogo: Real Oviedo vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 14:00 | Jogo: Villarreal CF vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 16:15 | Jogo: Deportivo Alavés vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 18:30 | Jogo: Real Betis Balompié vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-06 | Horário: 21:00 | Jogo: Athletic Club vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 14:00 | Jogo: Elche CF vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 16:15 | Jogo: Valencia CF vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 18:30 | Jogo: RCD Espanyol de Barcelona vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-07 | Horário: 21:00 | Jogo: Real Madrid CF vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 15 | Data: 2025-12-08 | Horário: 21:00 | Jogo: CA Osasuna vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-12 | Horário: 20:45 | Jogo: Real Sociedad de Fútbol vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 14:00 | Jogo: Club Atlético de Madrid vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 16:15 | Jogo: RCD Mallorca vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 18:30 | Jogo: FC Barcelona vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-13 | Horário: 21:00 | Jogo: Getafe CF vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 14:00 | Jogo: Sevilla FC vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 16:15 | Jogo: RC Celta de Vigo vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-14 | Horário: 21:00 | Jogo: Deportivo Alavés vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2025-12-15 | Horário: 21:00 | Jogo: Rayo Vallecano de Madrid vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-19 | Horário: 21:00 | Jogo: Valencia CF vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-20 | Horário: 14:00 | Jogo: Real Oviedo vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-20 | Horário: 16:15 | Jogo: Levante UD vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-20 | Horário: 18:30 | Jogo: CA Osasuna vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-20 | Horário: 21:00 | Jogo: Real Madrid CF vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-21 | Horário: 14:00 | Jogo: Girona FC vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-21 | Horário: 16:15 | Jogo: Villarreal CF vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-21 | Horário: 18:30 | Jogo: Elche CF vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-21 | Horário: 21:00 | Jogo: Real Betis Balompié vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 17 | Data: 2025-12-22 | Horário: 21:00 | Jogo: Athletic Club vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-02 | Horário: 21:00 | Jogo: Rayo Vallecano de Madrid vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-03 | Horário: 14:00 | Jogo: RC Celta de Vigo vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-03 | Horário: 16:15 | Jogo: CA Osasuna vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-03 | Horário: 18:30 | Jogo: Elche CF vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-03 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-04 | Horário: 14:00 | Jogo: Sevilla FC vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-04 | Horário: 16:15 | Jogo: Real Madrid CF vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-04 | Horário: 18:30 | Jogo: Deportivo Alavés vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-04 | Horário: 18:30 | Jogo: RCD Mallorca vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 18 | Data: 2026-01-04 | Horário: 21:00 | Jogo: Real Sociedad de Fútbol vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-09 | Horário: 21:00 | Jogo: Getafe CF vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-10 | Horário: 14:00 | Jogo: Real Oviedo vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-10 | Horário: 16:15 | Jogo: Villarreal CF vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-10 | Horário: 18:30 | Jogo: Girona FC vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-10 | Horário: 21:00 | Jogo: Valencia CF vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-11 | Horário: 14:00 | Jogo: Rayo Vallecano de Madrid vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-11 | Horário: 16:15 | Jogo: Levante UD vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 19 | Data: 2026-01-12 | Horário: 21:00 | Jogo: Sevilla FC vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-16 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-17 | Horário: 14:00 | Jogo: Real Madrid CF vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-17 | Horário: 16:15 | Jogo: RCD Mallorca vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-17 | Horário: 18:30 | Jogo: CA Osasuna vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-17 | Horário: 21:00 | Jogo: Real Betis Balompié vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-18 | Horário: 14:00 | Jogo: Getafe CF vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-18 | Horário: 16:15 | Jogo: Club Atlético de Madrid vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-18 | Horário: 18:30 | Jogo: RC Celta de Vigo vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-18 | Horário: 21:00 | Jogo: Real Sociedad de Fútbol vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 20 | Data: 2026-01-19 | Horário: 21:00 | Jogo: Elche CF vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-23 | Horário: 21:00 | Jogo: Levante UD vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-24 | Horário: 14:00 | Jogo: Rayo Vallecano de Madrid vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-24 | Horário: 16:15 | Jogo: Valencia CF vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-24 | Horário: 18:30 | Jogo: Sevilla FC vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-24 | Horário: 21:00 | Jogo: Villarreal CF vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-25 | Horário: 14:00 | Jogo: Club Atlético de Madrid vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-25 | Horário: 16:15 | Jogo: FC Barcelona vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-25 | Horário: 18:30 | Jogo: Real Sociedad de Fútbol vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-25 | Horário: 21:00 | Jogo: Deportivo Alavés vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 21 | Data: 2026-01-26 | Horário: 21:00 | Jogo: Girona FC vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-01-30 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-01-31 | Horário: 14:00 | Jogo: Real Oviedo vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-01-31 | Horário: 16:15 | Jogo: CA Osasuna vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-01-31 | Horário: 18:30 | Jogo: Levante UD vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-01-31 | Horário: 21:00 | Jogo: Elche CF vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-02-01 | Horário: 14:00 | Jogo: Real Madrid CF vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-02-01 | Horário: 16:15 | Jogo: Real Betis Balompié vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-02-01 | Horário: 18:30 | Jogo: Getafe CF vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-02-01 | Horário: 21:00 | Jogo: Athletic Club vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 22 | Data: 2026-02-02 | Horário: 21:00 | Jogo: RCD Mallorca vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-06 | Horário: 21:00 | Jogo: RC Celta de Vigo vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-07 | Horário: 16:15 | Jogo: FC Barcelona vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-07 | Horário: 21:00 | Jogo: Real Sociedad de Fútbol vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-08 | Horário: 14:00 | Jogo: Deportivo Alavés vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-08 | Horário: 16:15 | Jogo: Athletic Club vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-08 | Horário: 16:15 | Jogo: Sevilla FC vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-08 | Horário: 18:30 | Jogo: Club Atlético de Madrid vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-08 | Horário: 21:00 | Jogo: Valencia CF vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-02-09 | Horário: 21:00 | Jogo: Villarreal CF vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-13 | Horário: 21:00 | Jogo: Elche CF vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-14 | Horário: 14:00 | Jogo: RCD Espanyol de Barcelona vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-14 | Horário: 16:15 | Jogo: Getafe CF vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-14 | Horário: 18:30 | Jogo: Sevilla FC vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-14 | Horário: 21:00 | Jogo: Real Madrid CF vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-15 | Horário: 14:00 | Jogo: Real Oviedo vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-15 | Horário: 16:15 | Jogo: Rayo Vallecano de Madrid vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-15 | Horário: 18:30 | Jogo: Levante UD vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-15 | Horário: 21:00 | Jogo: RCD Mallorca vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 24 | Data: 2026-02-16 | Horário: 21:00 | Jogo: Girona FC vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 16 | Data: 2026-02-18 | Horário: 20:00 | Jogo: Levante UD vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-20 | Horário: 21:00 | Jogo: Athletic Club vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-21 | Horário: 14:00 | Jogo: Real Sociedad de Fútbol vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-21 | Horário: 16:15 | Jogo: Real Betis Balompié vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-21 | Horário: 18:30 | Jogo: CA Osasuna vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-21 | Horário: 21:00 | Jogo: Club Atlético de Madrid vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-22 | Horário: 14:00 | Jogo: Getafe CF vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-22 | Horário: 16:15 | Jogo: FC Barcelona vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-22 | Horário: 18:30 | Jogo: RC Celta de Vigo vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-22 | Horário: 21:00 | Jogo: Villarreal CF vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 25 | Data: 2026-02-23 | Horário: 21:00 | Jogo: Deportivo Alavés vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-02-27 | Horário: 21:00 | Jogo: Levante UD vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-02-28 | Horário: 14:00 | Jogo: Rayo Vallecano de Madrid vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-02-28 | Horário: 16:15 | Jogo: FC Barcelona vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-02-28 | Horário: 18:30 | Jogo: RCD Mallorca vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-02-28 | Horário: 21:00 | Jogo: Real Oviedo vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-03-01 | Horário: 14:00 | Jogo: Elche CF vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-03-01 | Horário: 16:15 | Jogo: Valencia CF vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-03-01 | Horário: 18:30 | Jogo: Real Betis Balompié vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-03-01 | Horário: 21:00 | Jogo: Girona FC vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 26 | Data: 2026-03-02 | Horário: 21:00 | Jogo: Real Madrid CF vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 23 | Data: 2026-03-04 | Horário: 19:00 | Jogo: Rayo Vallecano de Madrid vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-06 | Horário: 21:00 | Jogo: RC Celta de Vigo vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-07 | Horário: 14:00 | Jogo: CA Osasuna vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-07 | Horário: 16:15 | Jogo: Levante UD vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-07 | Horário: 18:30 | Jogo: Club Atlético de Madrid vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-07 | Horário: 21:00 | Jogo: Athletic Club vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-08 | Horário: 14:00 | Jogo: Villarreal CF vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-08 | Horário: 16:15 | Jogo: Getafe CF vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-08 | Horário: 18:30 | Jogo: Sevilla FC vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-08 | Horário: 21:00 | Jogo: Valencia CF vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 27 | Data: 2026-03-09 | Horário: 21:00 | Jogo: RCD Espanyol de Barcelona vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-13 | Horário: 21:00 | Jogo: Deportivo Alavés vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-14 | Horário: 14:00 | Jogo: Girona FC vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-14 | Horário: 16:15 | Jogo: Club Atlético de Madrid vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-14 | Horário: 18:30 | Jogo: Real Oviedo vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-14 | Horário: 21:00 | Jogo: Real Madrid CF vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-15 | Horário: 14:00 | Jogo: RCD Mallorca vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-15 | Horário: 16:15 | Jogo: FC Barcelona vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-15 | Horário: 18:30 | Jogo: Real Betis Balompié vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-15 | Horário: 21:00 | Jogo: Real Sociedad de Fútbol vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 28 | Data: 2026-03-16 | Horário: 21:00 | Jogo: Rayo Vallecano de Madrid vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-20 | Horário: 21:00 | Jogo: Villarreal CF vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-21 | Horário: 14:00 | Jogo: Elche CF vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-21 | Horário: 16:15 | Jogo: RCD Espanyol de Barcelona vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-21 | Horário: 18:30 | Jogo: Levante UD vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-21 | Horário: 18:30 | Jogo: CA Osasuna vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-21 | Horário: 21:00 | Jogo: Sevilla FC vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-22 | Horário: 14:00 | Jogo: FC Barcelona vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-22 | Horário: 16:15 | Jogo: RC Celta de Vigo vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-22 | Horário: 18:30 | Jogo: Athletic Club vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 29 | Data: 2026-03-22 | Horário: 21:00 | Jogo: Real Madrid CF vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Deportivo Alavés vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Club Atlético de Madrid vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Real Betis Balompié vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Girona FC vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: RCD Mallorca vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Real Oviedo vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Getafe CF vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Valencia CF vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Rayo Vallecano de Madrid vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 30 | Data: 2026-04-05 | Horário: TBD | Jogo: Real Sociedad de Fútbol vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: FC Barcelona vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: RC Celta de Vigo vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: Elche CF vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: RCD Mallorca vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: Real Sociedad de Fútbol vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: Sevilla FC vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: CA Osasuna vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: Levante UD vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: Real Madrid CF vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 31 | Data: 2026-04-12 | Horário: TBD | Jogo: Athletic Club vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Athletic Club vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: FC Barcelona vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Levante UD vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: RCD Mallorca vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Real Oviedo vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Real Madrid CF vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Elche CF vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Girona FC vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Rayo Vallecano de Madrid vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 33 | Data: 2026-04-22 | Horário: TBD | Jogo: Real Sociedad de Fútbol vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Deportivo Alavés vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Real Betis Balompié vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: RCD Espanyol de Barcelona vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: CA Osasuna vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Rayo Vallecano de Madrid vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Club Atlético de Madrid vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Getafe CF vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Villarreal CF vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Real Oviedo vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 32 | Data: 2026-04-26 | Horário: TBD | Jogo: Valencia CF vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Deportivo Alavés vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Real Betis Balompié vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: RC Celta de Vigo vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: RCD Espanyol de Barcelona vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Getafe CF vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Girona FC vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Valencia CF vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: CA Osasuna vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Villarreal CF vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 34 | Data: 2026-05-03 | Horário: TBD | Jogo: Sevilla FC vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Athletic Club vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Club Atlético de Madrid vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: FC Barcelona vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Levante UD vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: RCD Mallorca vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Elche CF vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Real Sociedad de Fútbol vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Sevilla FC vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Real Oviedo vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 35 | Data: 2026-05-10 | Horário: TBD | Jogo: Rayo Vallecano de Madrid vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Deportivo Alavés vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Real Betis Balompié vs Elche CF
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: RC Celta de Vigo vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Getafe CF vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Girona FC vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: RCD Espanyol de Barcelona vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: CA Osasuna vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Valencia CF vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Villarreal CF vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 36 | Data: 2026-05-13 | Horário: TBD | Jogo: Real Madrid CF vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Athletic Club vs RC Celta de Vigo
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Club Atlético de Madrid vs Girona FC
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: FC Barcelona vs Real Betis Balompié
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Elche CF vs Getafe CF
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Levante UD vs RCD Mallorca
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Rayo Vallecano de Madrid vs Villarreal CF
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Real Sociedad de Fútbol vs Valencia CF
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Real Oviedo vs Deportivo Alavés
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: CA Osasuna vs RCD Espanyol de Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 37 | Data: 2026-05-17 | Horário: TBD | Jogo: Sevilla FC vs Real Madrid CF
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Deportivo Alavés vs Rayo Vallecano de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Real Betis Balompié vs Levante UD
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: RC Celta de Vigo vs Sevilla FC
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: RCD Espanyol de Barcelona vs Real Sociedad de Fútbol
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Getafe CF vs CA Osasuna
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: RCD Mallorca vs Real Oviedo
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Real Madrid CF vs Athletic Club
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Villarreal CF vs Club Atlético de Madrid
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Valencia CF vs FC Barcelona
+Campeonato: Spain Primera División 2025/26 | Rodada 38 | Data: 2026-05-24 | Horário: TBD | Jogo: Girona FC vs Elche CF
