@@ -69,15 +69,4 @@ public class RagConfig {
                 .build();
     }
 
-    @Bean
-    public EmbeddingStoreIngestor embeddingStoreIngestor(
-            EmbeddingModel embeddingModel,
-            EmbeddingStore<TextSegment> embeddingStore
-    ) {
-        return EmbeddingStoreIngestor.builder()
-                .embeddingModel(embeddingModel)
-                .embeddingStore(embeddingStore)
-                .build();
-    }
-
 }
